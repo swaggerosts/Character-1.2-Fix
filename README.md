@@ -7,3 +7,6 @@ How to use
 If you are WWMI user,put the file into your characther folder
 If you are d3d user,Please export the mod folder before using it
 2.Run exe
+
+
+banana:gamebanana.com/mods/535509
